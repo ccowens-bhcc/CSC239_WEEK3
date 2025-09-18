@@ -3,5 +3,6 @@ public class App {
         Giraffe.sayHello();
         Kestrel.sayHello();
         Penguin.sayHello();
+        Dog.sayHello();
     }
 }
